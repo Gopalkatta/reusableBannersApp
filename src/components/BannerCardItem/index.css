@@ -44,7 +44,7 @@
   margin-bottom: 32px;
 }
 
-.show-more-button {
+.show-more-btn {
   color: #326a9d;
   background-color: #ffffff;
   font-family: 'Roboto';
@@ -53,4 +53,5 @@
   border: 2px solid #326a9d;
   border-radius: 5px;
   padding: 8px;
+  border-color: #326a9d:
 }
